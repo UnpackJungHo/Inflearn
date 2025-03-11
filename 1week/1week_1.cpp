@@ -12,6 +12,7 @@ int fibo(int n) {
 }
 
 int n = 5;
+int x = 10;
 
 int main1() {
 	cout << fact(5);
